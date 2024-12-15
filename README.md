@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td align="center">
-      <a href="SQL%20project/서울시%20부동산%20실거래가%20분석.pdf">
+      <a href="SQL%20project/서울시%20부동산%20실거래가%20분석.pdf">
         <img src="SQL%20project/realestate1.png" alt="SQL 데이터 분석" width="400"/>
       </a>
       <br>
@@ -30,7 +30,7 @@
       타자 감지 YOLO 모델
     </td>
     <td align="center">
-      <a href="Python%20project/서울시%20카페%20입지%20분석.pdf">
+      <a href="Python%20project/서울시 =%20카페%20입지%20분석.pdf">
         <img src="Python%20project/subway1.png" alt="파이썬 웹 스크래핑" width="400"/>
       </a>
       <br>
