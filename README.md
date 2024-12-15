@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="DL%20project/타자를찾아라withYOLO.pdf">
+      <a href="DL%20project/타자를찾아라withYOLO.pdf">
         <img src="DL%20project/hitterdetector1.png" alt="딥러닝" width="400"/>
       </a>
       <br>
