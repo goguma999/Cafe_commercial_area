@@ -23,15 +23,15 @@
 - 한국부동산원_상업용부동산 임대동향조사_임대정보_분기별 지역별 임대료(한국부동산원)
 
 ### 데이터 분석 및 결과
-**1. K-means++ 알고리즘을 활용한 상권 세그멘테이션**
+**1. K-means++ 알고리즘을 활용한 상권 세그멘테이션**  
 <img src="image/cafe2.png" alt="cafe2" width="600"/>
 
-**2. 그룹별 특성 분석**
+**2. 그룹별 특성 분석**  
 <img src="image/cafe3.png" width="350"> <img src="image/cafe4.png" width="350">  
 <img src="image/cafe5.png" width="350"> <img src="image/cafe6.png" width="350">  
 <img src="image/cafe9.png" width="350"> <img src="image/cafe10.png" width="350">  
 
-**3. 창업자 유형별 상권 매칭**
+**3. 창업자 유형별 상권 매칭**  
 <img src="image/cafe7.png" width="350"> <img src="image/cafe8.png" width="350">
 
 
