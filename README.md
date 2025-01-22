@@ -1,5 +1,5 @@
 # 서울시 카페 상권 데이터 분석 프로젝트 (K-means++ 군집 분석)
-### *모두를 위한 상권은 없다! 창업자의 특성을 고려한 맞춤 상권을 추천해드립니다*
+### *"모두를 위한 상권은 없다! 창업자의 특성을 고려한 맞춤 상권을 추천해드립니다"*
 
 ## Outline
 - 기간: 24.10.07 ~ 24.10.23 
@@ -28,13 +28,13 @@
 &nbsp;
 
 2. 그룹별 특성 분석<br>
-<img src="image/cafe3.png" width="400"> <img src="image/cafe4.png" width="400">  
-<img src="image/cafe5.png" width="400"> <img src="image/cafe6.png" width="400">  
-<img src="image/cafe9.png" width="400"> <img src="image/cafe10.png" width="400">  
+<img src="image/cafe3.png" width="350"> <img src="image/cafe4.png" width="350">  
+<img src="image/cafe5.png" width="350"> <img src="image/cafe6.png" width="350">  
+<img src="image/cafe9.png" width="350"> <img src="image/cafe10.png" width="350">  
 
 &nbsp; 
 3. 창업자 유형별 상권 매칭<br>
-<img src="image/cafe7.png" width="400"> <img src="image/cafe8.png" width="400">
+<img src="image/cafe7.png" width="350"> <img src="image/cafe8.png" width="350">
 
 
 
