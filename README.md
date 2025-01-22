@@ -27,13 +27,14 @@
 <img src="image/cafe2.png" alt="cafe2" width="600"/>
 &nbsp;
 
-3. 그룹별 특성 분석
-<img src="image/cafe3.png" width="300"> <img src="image/cafe4.png" width="300">
-<img src="image/cafe5.png" width="300"> <img src="image/cafe6.png" width="300">
+2. 그룹별 특성 분석<br>
+<img src="image/cafe3.png" width="400"> <img src="image/cafe4.png" width="400">  
+<img src="image/cafe5.png" width="400"> <img src="image/cafe6.png" width="400">  
+<img src="image/cafe9.png" width="400"> <img src="image/cafe10.png" width="400">  
 
 &nbsp; 
-3. 창업자 유형별 상권 매칭 
-<img src="image/cafe7.png" width="300"> <img src="image/cafe8.png" width="300">
+3. 창업자 유형별 상권 매칭<br>
+<img src="image/cafe7.png" width="400"> <img src="image/cafe8.png" width="400">
 
 
 
